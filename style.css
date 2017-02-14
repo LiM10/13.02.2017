@@ -1,0 +1,98 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+/*main classes*/
+.main{
+	width: 339px;
+	height: 845px;
+	background: yellow;
+}
+.left{
+	width: 90px;
+	height: 100%;
+	background: yellow;
+	margin-left: 25px;
+	margin-right: 6px;
+}
+
+.middle{
+	width: 90px;
+	height: 100%;
+	background: yellow;
+}
+.right{
+	width: 90px;
+	height: 100%;
+	background: yellow;
+	margin-left: 6px;
+	margin-right: 25px;
+}
+.floatLeft{
+	float: left;
+}
+.marginUpDown{
+	margin-bottom: 2px;
+	margin-top: 5px;
+}
+/*/main classes*/
+.doxsan-50{
+	width: 100%;
+	height: 50px;
+	background: gray;
+	clear: both;
+	margin-bottom: 6px;
+}
+.doxsan-55{
+	width: 100%;
+	height: 55px;
+	background: gray;
+	clear: both;
+	margin-bottom: 6px;
+}
+/*image classes*/
+.doxsan-60{
+	width: 100%;
+	height: 60px;
+	background: gray;
+	clear: both;
+	margin-bottom: 6px;
+}
+.doxsan-70{
+	width: 100%;
+	height: 70px;
+	background: gray;
+	clear: both;
+	margin-bottom: 6px;
+}
+.doxsan-90{
+	width: 100%;
+	height: 90px;
+	background: gray;
+	clear: both;
+	margin-bottom: 6px;
+}
+.doxsan-115{
+	width: 100%;
+	height: 115px;
+	background: gray;
+	clear: both;
+	margin-bottom: 6px;
+}
+.doxsan-120{
+	width: 100%;
+	height: 120px;
+	background: gray;
+	clear: both;
+	margin-bottom: 6px;
+}
+.doxsan-130{
+	width: 100%;
+	height: 130px;
+	background: gray;
+	clear: both;
+	margin-bottom: 6px;
+}
+/*image classes*/
